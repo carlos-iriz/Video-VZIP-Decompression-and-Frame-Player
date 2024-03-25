@@ -35,5 +35,3 @@ the same naming format of the orignal frames folder provided at the start of the
 REMINDER: If a file is to be tested you MUST change its name to video.vzip, the program only works with the formatting of the
           original compression project IE: a folder that has been compressed using the .vzip format and is made up of a folder that
           contains ONLY .ppm files. Again this follows the specifications of the original project.
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
