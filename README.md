@@ -1,6 +1,8 @@
 # Video-VZIP-Decompression-and-Frame-Player
 Given a compressed file in .vzip format the program will decompress the data and play each decompressed frame found in the file
 
+Link to Compression Tool: https://github.com/carlos-iriz/Video-ZIP-Compression
+
 Project Description:
 The play_frames.py program will take in a compressed file called video.vzip. This file will be decompressed and each frame found within
 the video will be displayed in a new window. Each frame will be shown and the window should display each frame as a video.
