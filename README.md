@@ -21,10 +21,6 @@ Ensure python3 is installed on the machine you wish to run the program on along 
    - shutil
    - zlib
 
-NOTE: If an executable file is needed for testing I can provide it but it does not allow for the user to change the input file for
-      the program, the exectuable only runs with the video.vzip file that was packed into it
-
-
 To Run:
 Open terminal and change directory to folder where the program and video.vzip file are found.
 
